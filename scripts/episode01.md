@@ -1,9 +1,3 @@
-Absolutely — here’s a polished, YouTube‑ready Episode 1 script that starts by explaining what GitHub Copilot is, then introduces Advent of Code as the fun context you’ll use to teach it. It keeps your tone warm, clear, and authoritative — perfect for a first episode that sets expectations.
-
-If you want a shorter, more humorous, or more cinematic version, I can reshape it.
-
----
-
 🎄 Avent of Copilot — Episode 1 Script
 
 “What Is GitHub Copilot? And Why Advent of Code Is the Perfect Playground”
@@ -14,11 +8,11 @@ If you want a shorter, more humorous, or more cinematic version, I can reshape i
 
 ON CAMERA
 
-“GitHub Copilot is changing the way developers write code — but what does that actually mean in practice? And how do you learn to use it effectively without getting overwhelmed?”
+“AI programming tools like GitHub Copilot are changing the way developers write code — but what does that actually mean in practice? And how do you learn to use them effectively without getting overwhelmed?”
 
 Beat.
 
-“In this series, I’m going to show you exactly how GitHub Copilot works by using one of the most fun programming traditions on the internet: Advent of Code.”
+“In this series, I’m going to explore how GitHub Copilot works by using Advent of Code, a collection of small programming puzzles that can be solved using any language you like.”
 
 ---
 
