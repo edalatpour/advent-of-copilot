@@ -41,20 +41,19 @@ Episodes include:
 
 This repo will include:
 
-- `day-01/` — Manual solution (no Copilot)  
-- `day-02/` — Autocomplete‑assisted solution  
-- `day-03/` — Problem‑description‑driven solution  
-- `day-04/` — Copilot Chat solution  
-- `day-05/` — Coding Agent solution  
-- `day-06/` — Custom instructions solution  
-- `day-07/` — Multi‑agent parallel solutions  
-- `inputs/` — Puzzle input files  
-- `outputs/` — Generated output files (when applicable)
+- `2015/01/` — Manual solution (no Copilot)  
+- `2015/02/` — Autocomplete‑assisted solution  
+- `2015/03/` — Problem‑description‑driven solution  
+- `2015/04/` — Copilot Chat solution  
+- `2015/05/` — Coding Agent solution  
+- `2015/06/` — Custom instructions solution  
+- `2015/07/` — Multi‑agent parallel solutions  
 
 Each folder will contain:
 
 - `solution.<language>` — The code for that day  
-- `README.md` — Notes on how Copilot was used  
+- `README.md` — Notes on how Copilot was used
+- `input.txt` - The puzzle input for that day
 - `output.txt` — The final answer (when relevant)
 
 ---
