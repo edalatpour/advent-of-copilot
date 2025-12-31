@@ -1,6 +1,6 @@
 🎄 Avent of Copilot — Episode 1 Script
 
-“What Is GitHub Copilot? And Why Advent of Code Is the Perfect Playground”
+“What Is GitHub Copilot? And Why Advent of Code Is the Perfect Playground to learn about it?”
 
 ---
 
